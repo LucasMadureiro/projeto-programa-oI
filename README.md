@@ -4,7 +4,6 @@
 
 ## 👥 Integrantes do Grupo
 
-- Jeamerson Jose de Oliveira Barbosa
 - Lucas Madureiro Matias
 - Mateus Alexandre Moreno Simplicio
 
@@ -12,7 +11,7 @@
 
 ## 📋 Descrição do Projeto
 
-Este projeto é um **sistema de gerenciamento de estoque** desenvolvido em **Python**, com persistência de dados em arquivo **JSON**.
+Este projeto é um **sistema de gerenciamento de estoque** desenvolvido em **Python**, com armazenamento de dados em arquivo **JSON**.
 
 O programa roda diretamente no terminal e permite que o usuário cadastre produtos, registre vendas, remova itens e consulte o estoque em tempo real. Todas as alterações são salvas automaticamente em um arquivo local, garantindo que os dados não sejam perdidos ao fechar o programa.
 
@@ -26,7 +25,6 @@ O sistema também conta com **alertas visuais automáticos** para produtos com e
 📁 projeto-estoque/
 ├── projeto_de_estoque.py      # Arquivo principal do programa
 └── arquivo do estoque.json    # Banco de dados local dos produtos
-```
 
 ---
 
@@ -118,15 +116,15 @@ Digite **S** para abrir o menu e escolha uma das opções disponíveis (1 a 5).
 
 ## 🤝 Divisão de Responsabilidades
 
-O projeto foi desenvolvido de forma **colaborativa**, com todos os integrantes participando em conjunto de todas as etapas:
+O projeto foi desenvolvido de forma **colaborativa**, ambos integrantes participando em conjunto de todas as etapas:
 
 | Etapa | Responsáveis |
 |-------|-------------|
-| Planejamento da lógica do sistema | Jeamerson, Lucas e Mateus |
-| Desenvolvimento do código Python | Jeamerson, Lucas e Mateus |
-| Criação e estruturação do arquivo JSON | Jeamerson, Lucas e Mateus |
-| Testes e validação do programa | Jeamerson, Lucas e Mateus |
-| Documentação (README) | Jeamerson, Lucas e Mateus |
+| Planejamento da lógica do sistema | Lucas e Mateus |
+| Desenvolvimento do código Python | Lucas e Mateus |
+| Criação e estruturação do arquivo JSON | Lucas e Mateus |
+| Testes e validação do programa | Lucas e Mateus |
+| Documentação (README) | Lucas e Mateus |
 
 ---
 
